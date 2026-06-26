@@ -1,0 +1,11 @@
+venv/ 
+__pycache__/ 
+*.pyc 
+chroma_db/ 
+chroma_db_clause/ 
+chroma_db_full/ 
+*.pkl 
+.env 
+.vscode/ 
+.idea/ 
+data/raw/ 
